@@ -9,7 +9,9 @@ import random
 from compliments import resp_comp
 import time
 
-X_API_KEY = 'e2124031-8b25-41af-99b1-7949b78e088a'
+#for any API that needs a key you may need to go to the website and get your own key
+#and the TOKEN constant used when running the bot is specififc to you when you create a bot on https://discord.com/developers/applications
+
 
 client = discord.Client()
 
